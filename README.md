@@ -1,2 +1,2 @@
-# flutter-app-task-2
+# Mobile development
 Flutter course
